@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a ui repository that contains various react components<br>🌱 I’m currently learning React and NextJS<br>💬 Ask me about anything you like to or need help with :)<br>🎓 Student @uniosnabrueck
+🌱 I’m currently learning React, NextJS and Prisma<br>💬 Ask me about anything you like to or need help with :)<br>🎓 Student @uniosnabrueck
 
 
 ## 🌐 Socials:
