@@ -1,5 +1,5 @@
 # 💫 About Me
-🌱 I’m currently learning React, NextJS and Prisma<br>💬 Ask me about anything you like to or need help with :)<br>🎓 Student and Tutor @uniosnabrueck
+💬 Ask me about anything you like to or need help with :)<br>🎓 Student and Tutor @uniosnabrueck
 
 
 ## 🌐 Socials
